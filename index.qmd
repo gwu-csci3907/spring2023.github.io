@@ -1,0 +1,66 @@
+---
+title: "Introduction to IoT and Edge Computing Applications"
+---
+
+<h2>From introduction to interface with the physical world</h2>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+### Course and Contact Information
+
+<div class="row">
+ <div class="column">
+- **CSCi 3907:** Introduction to IoT and Edge Computing Applications 
+- **Semester:**  Spring 2023
+- **Credits:** 3
+- **Meeting times:** Friday 12:45 PM — 3:15 PM (Lectures and Laboratory)
+- **Location:** TBA
+- **Course website:** TBA 
+- **Instructor information** [can be found here](/instructor.qmd)
+ </div>
+
+ <div class="column">
+ <!-- "float: left;  -->
+ <img src="/images/noun-iot-2623360_copy.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p>
+ </div>
+</div>
+
+
+### Course description
+The Internet of Things (IoT) is perceived as a collection of smart, connected devices with the ability to send and receive data; “internet” encapsulates connectivity and “things” are devices (electronic or mechanical) that can be adapted toward connectivity. 
+
+There is an alternative perception of IoT, as a design methodology that facilitates interoperability and connectivity of physical systems. Edge computing is a strategy for localized analysis of data, ahead in the pipeline of powerful data center- or cloud-based post-processing.  
+
+This course explores these aspects of IoT framework and expands it with edge computing ideology via practical and hands-on exposure. Students will be exposed to the IoT framework using a variety of sensors, IoT automation and connectivity in “microLabs” that incorporate the Raspberry Pi (single-board computer) and Python programming language. 
+
+The students will learn about how IoT with edge computing capability is going to be the backbone of the Industry 4.0.
+
+
+
+<br><br>
+<footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2022 All rights reserved</p>
+</footer>
+
