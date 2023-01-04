@@ -5,7 +5,7 @@ format: html
 
 Smaple class schedule [week-by-week]
 
-(Subject to changes dureing the semester)
+(Subject to changes during the semester)
 
 <table class="table table-hover">
   <thead>
