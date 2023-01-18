@@ -21,7 +21,7 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 1 [01/20/2023]</th>
       <td>
         <ul>
-          <li>Overview of IoT and Edge Programming</li> 
+          <li>IoT and Edge Computing [Two big pictures]</li> 
           <li>Introduction to Raspberry Pi and Python programming</li> 
           <li>Course outline and expectations</li> 
         </ul>  
@@ -50,6 +50,7 @@ Sample class schedule [week-by-week]
           <li>Setting up a Python virtual environment</li> 
           <li>Installing Python GPIO packages with pip</li>
           <li>Using sudo within virtual environments</li>
+          <li>Basics of Matrices [Warming up to numerical data]</li>
           <li>HW 1 due</li>
         </ul>
       </td>
