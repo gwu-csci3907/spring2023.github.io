@@ -32,8 +32,8 @@ title: "Introduction to IoT and Edge Computing Applications"
 - **Semester:**  Spring 2023
 - **Credits:** 3
 - **Meeting times:** Friday 12:45 PM — 3:15 PM (Lectures and Laboratory)
-- **Location:** TBA
-- **Course website:** TBA 
+- **Location:** Tompkins Hall 201
+- **Course website:** https://gwu-csci3907.github.io
 - **Instructor information** [can be found here](/instructor.qmd)
  </div>
 
