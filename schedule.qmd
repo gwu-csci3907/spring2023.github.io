@@ -21,16 +21,16 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 1 [01/20/2023]</th>
       <td>
         <ul>
-          <li>IoT and Edge Computing [Two big pictures]</li> 
+          <li>IoT and Edge Computing [The big pictures]</li> 
           <li>Introduction to Raspberry Pi and Python programming</li> 
-          <li>Course outline and expectations</li> 
+          <li>Course overview, policies and deliverables</li>
         </ul>  
       </td>
       <td>
         <ul>
-          <li>Understanding the Python installation on the Raspberry Pi</li>
-          <li>Python programming using Thonny and the Terminal</li> 
-          <li>Introduction and scope to IoT Project-deliverables</li>
+          <li>Getting familiar with the Raspberry Pi 3B+</li>
+          <li>Python programming using Thonny</li> 
+          <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->

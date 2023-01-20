@@ -33,7 +33,7 @@ title: "Introduction to IoT and Edge Computing Applications"
 - **Credits:** 3
 - **Meeting times:** Friday 12:45 PM — 3:15 PM (Lectures and Laboratory)
 - **Location:** Tompkins Hall 201
-- **Course website:** https://gwu-csci3907.github.io
+- **Course website:** [https://gwu-csci3907.github.io](https://gwu-csci3907.github.io)
 - **Instructor information** [can be found here](/instructor.qmd)
  </div>
 
