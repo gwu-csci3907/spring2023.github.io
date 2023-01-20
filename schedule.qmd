@@ -30,7 +30,6 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Getting familiar with the Raspberry Pi 3B+</li>
           <li>Python programming using Thonny</li> 
-          <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -47,11 +46,12 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
+          <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
           <li>Setting up a Python virtual environment</li> 
           <li>Installing Python GPIO packages with pip</li>
           <li>Using sudo within virtual environments</li>
           <li>Basics of Matrices [Warming up to numerical data]</li>
-          <li>HW 1 due</li>
+          <li>HW 1 assigned</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -69,7 +69,8 @@ Sample class schedule [week-by-week]
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li>In-class Raspberry Pi Lab (Blinking LEDs)</li>
           <li>Handling data arrays and plotting data using Python</li>
-          <li>HW 2 due</li>
+          <li>HW 1 due</li>
+          <li>HW 2 assigned</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -88,7 +89,8 @@ Sample class schedule [week-by-week]
           <li>Working with matplotlib</li>
           <li>In-class Raspberry Pi Lab</li>
           <li>Practical introduction to MQTT</li>
-          <li>HW 3 due</li>
+          <li>HW 2 due</li>
+          <li>HW 3 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -105,7 +107,8 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Working with pandas</li>
           <li>In-class Raspberry Pi Lab on Image Processing</li>
-          <li>HW 4 due</li>
+          <li>HW 3 due</li>
+          <li>HW 4 assinged</li>
           <li>Midterm project released</li>
         </ul>
       </td>
@@ -124,7 +127,8 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Working with SciPy</li>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 5 due</li>
+          <li>HW 4 due</li>
+          <li>HW 5 assinged</li>
           <li>Practical introduction to Cayenne-myDevices</li>
         </ul>
       </td>
@@ -143,7 +147,8 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Working with Scikit or Keras </li>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 6 due</li>
+          <li>HW 5 due</li>
+          <li>HW 6 assinged</li>
           <li>Practical introduction to Cayenne-myDevices</li>
         </ul>
       </td>
@@ -160,7 +165,8 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 7 due</li>
+          <li>HW 6 due</li>
+          <li>HW 7 assinged</li>
           <li>Final Project - Proposals due</li>
         </ul>
       </td>
@@ -183,7 +189,8 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Practical Introduction to ThingSpeak</li>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 8 due</li>
+          <li>HW 7 due</li>
+          <li>HW 8 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -198,7 +205,8 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 9 due</li>
+          <li>HW 8 due</li>
+          <li>HW 9 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -214,7 +222,8 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Practical Introduction to IFTTT</li>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 10 due</li>
+          <li>HW 9 due</li>
+          <li>HW 10 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -229,7 +238,8 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 11 due</li>
+          <li>HW 10 due</li>
+          <li>HW 11 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -245,7 +255,8 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>In-class Raspberry Pi Lab</li>
-          <li>HW 12 due</li>
+          <li>HW 11 due</li>
+          <li>HW 12 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
