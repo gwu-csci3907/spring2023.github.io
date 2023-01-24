@@ -4,12 +4,23 @@ format: html
 ---
 
 <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+<div class="card-header">CS3907: Pre-lecture Anonymous Survey <a href="https://tinyurl.com/4z35cdc6" target="_blank" title="Working Style Workout"> [Click on link]</a> 
+</div>
+<img class="card-img-top" src="/images/Working_Style_Workout_for_CS3907_Intro_to_IoT_Edge_Compute.png" alt="Card image top">
+<div class="card-body">            
+<h5 class="card-title">Working Style Workout</h5><p class="card-text">This ~5 minute survey is to understand how the class collectively can do the course activties. The survey is anonymous and will not be collecting any data such as emails, names or personal other information. You will be limited to one-response only. </p>
+</div>
+</div>
+
+<!---
+<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
 <div class="card-header">Header</div>
 <img class="card-img-top" src="https://source.unsplash.com/daily" alt="Card image top">
 <div class="card-body">            
 <h5 class="card-title">Primary card title</h5><p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 </div>
 </div>
+-->
 
 <!--- Example of card -->
 <!---
@@ -25,9 +36,10 @@ format: html
 
 <!--- Example of card -->
 <!-- Tip: use bg-* and text-* utilities to style the card -->
-<!---
+<!-- 
 <div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
 <div class="card-header">Header</div>
+<img class="card-img-top" src="/images/Working_Style_Workout_for_CS3907_Intro_to_IoT_Edge_Compute.png" alt="Card image top">
 <div class="card-body">
 <h4 class="card-title">Primary card title</h4>
 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -36,6 +48,7 @@ format: html
 
 <div class="card text-white bg-dark mb-3 d-inline-block" style="max-width: 20rem;">
 <div class="card-header">Header</div>
+<img class="card-img-top" src="/images/Working_Style_Workout_for_CS3907_Intro_to_IoT_Edge_Compute.png" alt="Card image top">
 <div class="card-body">
 <h4 class="card-title">Primary card title</h4>
 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
