@@ -41,7 +41,6 @@ Sample class schedule [week-by-week]
           <li>Overview of computing in IoT</li>
           <li>Differences in Cloud and Fog computing</li>
           <li>What is Edge Computing and Edge Compute device</li>
-          <li>Guest lecture 2.1</li>
         </ul>
       </td>
       <td>
@@ -50,7 +49,6 @@ Sample class schedule [week-by-week]
           <li>Setting up a Python virtual environment</li> 
           <li>Installing Python GPIO packages with pip</li>
           <li>Using sudo within virtual environments</li>
-          <li>Basics of Matrices [Warming up to numerical data]</li>
           <li>HW 1 assigned</li>
         </ul>
       </td>
@@ -68,6 +66,7 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li>In-class Raspberry Pi Lab (Blinking LEDs)</li>
+          <li>Basics of Matrices [Warming up to numerical data]</li>
           <li>Handling data arrays and plotting data using Python</li>
           <li>HW 1 due</li>
           <li>HW 2 assigned</li>
@@ -158,8 +157,8 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 8 [03/10/2023]</th>
       <td>
         <ul>
-          <li>Details on IoT Communication layers</li>
-          <li>Guest lecture 8.1</li>
+          <li>Case study: IoT in Vehicular Applications</li>
+          <li>Guest lecture:  <a href="/Guest_Speakers/Rob_Shaughnessy_GRIMM_Cyber/RJS-bio-Jan2023.pdf" target="_blank">Robert Shaughnessy</a>, Senior Vice President, <a href="https://grimmcyber.com" target="_blank">GRIMM Cyber</a></li>
         </ul>
       </td>
       <td>
@@ -181,7 +180,7 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 9 [03/24/2023]</th>
       <td>
         <ul>
-          <li>Case study: IoT in Environmental monitoring</li>
+          <li>Details on IoT Communication layers</li>
           <li>Guest lecture 9.1</li>
         </ul>
       </td>
@@ -248,7 +247,7 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 13 [04/21/2023]</th>
       <td>
         <ul>
-          <li>Case study: IoT in Vehicular Applications</li>
+          <li>Case study: IoT in Environmental monitoring</li>
           <li>Guest lecture 13.1</li>
         </ul>
       </td>
