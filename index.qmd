@@ -44,9 +44,8 @@ title: "Introduction to IoT and Edge Computing Applications"
  </div>
 </div>
 
-**Github Repo (updated weekly)** 
-
-git clone https://github.com/gwu-csci3907.github.io/Spring2023
+### Github Repo (updated weekly)
+git clone https://github.com/gwu-csci3907.github.io/Spring2023.git
 
 ### Course description
 The Internet of Things (IoT) is perceived as a collection of smart, connected devices with the ability to send and receive data; “internet” encapsulates connectivity and “things” are devices (electronic or mechanical) that can be adapted toward connectivity. 
