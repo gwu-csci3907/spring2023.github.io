@@ -45,10 +45,11 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
+          <li>Setting up the Edge Lab</li>
+          <li>Understanding the Python installation on the Raspberry Pi</li>
+          <li>Some basic Python programming constructs</li>
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
-          <li>Setting up a Python virtual environment</li> 
-          <li>Installing Python GPIO packages with pip</li>
-          <li>Using sudo within virtual environments</li>
+          <li>Setting up a Python virtual environment [venv]</li> 
           <li>HW 1 assigned</li>
         </ul>
       </td>
@@ -64,6 +65,8 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
+          <li>Installing Python GPIO packages with pip</li>
+          <li>Using sudo within virtual environments</li>
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li>In-class Raspberry Pi Lab (Blinking LEDs)</li>
           <li>Basics of Matrices [Warming up to numerical data]</li>
@@ -79,7 +82,6 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>IoT Taxonomy - 5 layer model</li>
-          <li>Guest lecture 4.1</li>
         </ul>
       </td>
       <td>
@@ -100,6 +102,7 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Sensors</li>
           <li>Sensor types and considerations</li>
+          <li>Guest lecture: <a href="/Guest_Speakers/Chowdary_ARM/Chowdary-bio-Jan2023.docx" target="_blank">Chowdary Yanamadala</a>, Senior Vice President, <a href="https://arm.com" target="_blank">ARM</a></li>
         </ul>
       </td>
       <td>
