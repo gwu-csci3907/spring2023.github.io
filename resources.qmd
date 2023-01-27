@@ -15,9 +15,9 @@ format: html
 </div>
 
 <div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
-<div class="card-header">Week-1/div>
+<div class="card-header"> Video sources</div>
 <div class="card-body">
-<h4 class="card-title">Video sources</h4>
+<h4 class="card-title">Week-1</h4>
 <p>Talking Tech: Zipcar and iPhone <a href="https://www.youtube.com/watch?v=rCO0jFoJ1xY" style="color:blue;" target="_blank">An NSF proposal template in LaTeX-WTFPL license</a></p>
 <p>Combining AI, 5G, And Machine Vision To Transform Fish Farming <a href="https://youtu.be/PzQ_iWKFsxE" style="color:blue;" target="_blank">An NSF proposal template in LaTeX-WTFPL license</a></p>  
 <p>What Is the Internet of Things and Why Should You Care? | MIT Sloan <a href="https://www.youtube.com/watch?v=_l75CrN-hSI" style="color:blue;" target="_blank">An NSF proposal template in LaTeX-WTFPL license</a></p>
