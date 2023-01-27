@@ -34,7 +34,8 @@ format: html
 - Project reports, paper reviews and in-class presentations 10% 
 - Python programming and other Homework 20%
 - Projects (including code, demo, written report and presentation) 50% 
-  - 20% Individual midterm project; 30% Group final project 
+  - 20% Individual midterm project
+  - 30% Group final project 
  </div>
 
  <div class="column">
