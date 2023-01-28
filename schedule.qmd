@@ -13,6 +13,7 @@ Sample class schedule [week-by-week]
       <th scope="col">Date</th>
       <th scope="col">Topic(s) and readings </th>
       <th scope="col">$\mu$-LABs and Assignment(s) due</th>
+      <th scope="col">Lecture Notes</th>
       <!--- <th scope="col">Column heading</th> -->
     </tr>
   </thead>
@@ -30,6 +31,11 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Getting familiar with the Raspberry Pi 3B+</li>
           <li>Python programming using Thonny</li> 
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="/Slide_decks/CCS3907_IoT_Week1.pdf" target="_blank">Week-1 Lecture notes</a></li> 
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -51,6 +57,11 @@ Sample class schedule [week-by-week]
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
           <li>Setting up a Python virtual environment [venv]</li> 
           <li>HW 1 assigned</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><a href="/Slide_decks/CCS3907_IoT_Week2.pdf" target="_blank">Week-2 Lecture notes</a></li> 
         </ul>
       </td>
       <!--- <td>Column content</td> -->
