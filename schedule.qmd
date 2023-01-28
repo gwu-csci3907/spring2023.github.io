@@ -54,7 +54,7 @@ Sample class schedule [week-by-week]
           <li>Some basic Python programming constructs</li>
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
-          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> 
+          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1</li> 
         </ul>
       </td>
       <td>
