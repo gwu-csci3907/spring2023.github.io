@@ -24,7 +24,7 @@ Sample class schedule [week-by-week]
           <li>IoT and Edge Computing [The big pictures]</li> 
           <li>Introduction to Raspberry Pi and Python programming</li> 
           <li>Course overview, policies and deliverables</li>
-          <li><a href="/Notes/CCS3907_IoT_Week1.pdf" target="_blank">Lecture notes</a></li>
+          <li><a href="/Lectures_Speakers/CCS3907_IoT_Week1.pdf" target="_blank">Lecture notes</a></li>
         </ul>  
       </td>
       <td>
@@ -44,7 +44,7 @@ Sample class schedule [week-by-week]
           <li>Overview of computing in IoT</li>
           <li>Differences in Cloud and Fog computing</li>
           <li>What is Edge Computing and Edge Compute device</li>
-          <li><a href="/Notes/CCS3907_IoT_Week2.pdf" target="_blank">Lecture notes</a></li> 
+          <li><a href="/Lectures_Speakers/CCS3907_IoT_Week2.pdf" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
