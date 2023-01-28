@@ -24,7 +24,7 @@ Sample class schedule [week-by-week]
           <li>IoT and Edge Computing [The big pictures]</li> 
           <li>Introduction to Raspberry Pi and Python programming</li> 
           <li>Course overview, policies and deliverables</li>
-          <li><a href="/Lectures_Speakers/CCS3907_IoT_Week1.pdf" target="_blank">Lecture notes</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>  
       </td>
       <td>
@@ -44,7 +44,7 @@ Sample class schedule [week-by-week]
           <li>Overview of computing in IoT</li>
           <li>Differences in Cloud and Fog computing</li>
           <li>What is Edge Computing and Edge Compute device</li>
-          <li><a href="/Lectures_Speakers/CCS3907_IoT_Week2.pdf" target="_blank">Lecture notes</a></li> 
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
@@ -53,7 +53,8 @@ Sample class schedule [week-by-week]
           <li>Understanding the Python installation on the Raspberry Pi</li>
           <li>Some basic Python programming constructs</li>
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
-          <li>HW 1 assigned</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
+          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> 
         </ul>
       </td>
       <td>

@@ -45,13 +45,12 @@ format: html
  </div>
 </div>
 
-<br>
-**Additional important information about grading policy:**
-<br>
+## Additional important information about grading policy:
 
+- Late submissions on Homework and projects will not be acceptable.
 - There is no required final exam.
 - There may be instances in the presentations where peer-evaluations may be introduced at the discretion of the instructor.
-- The instructor will decide if course deliverables will be done in groups or individually
+- The instructor will seeks inputs from the class and decide if course projects will be done individfually, in groups or in a combination. 
 
 ## Classroom Policies and Student responsibilities
 
