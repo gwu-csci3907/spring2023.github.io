@@ -153,7 +153,7 @@ Sample class schedule [week-by-week]
           <li>Understanding Analog and Digital Signals</li>
           <li>Fundamentals of signal visualization in time and frequency</li>
           <li>Guest lecture:  <a href="https://www.seas.gwu.edu/timothy-wood"
-          target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab,</a></li>
+          target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
         </ul>
       </td>
       <td>
