@@ -152,6 +152,8 @@ Sample class schedule [week-by-week]
           <li>Exploring numerical data using matrices</li>
           <li>Understanding Analog and Digital Signals</li>
           <li>Fundamentals of signal visualization in time and frequency</li>
+          <li>Guest lecture:  <a href="https://www.seas.gwu.edu/timothy-wood"
+          target="_blank">Prof. Tim Wood</a>, Interim Chair, Director of Cloud Systems Lab, GWU<a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">ARM</a></li>
         </ul>
       </td>
       <td>
