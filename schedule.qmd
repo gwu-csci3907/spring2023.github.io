@@ -195,7 +195,7 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>Details on IoT Communication layers</li>
-          <li>Guest lecture:  <a href="/Lectures_Speakers/RemyPottier-bio-Jan2023.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li></li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/RemyPottier-bio-Jan2023.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li>
         </ul>
       </td>
       <td>
@@ -213,6 +213,7 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>Case study - continued </li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/NeerajPaliwal-bio-Jan2023.pdf" target="_blank">Neeraj Paliwal</a>, General Manager and VP of Security IP, <a href="https://www.rambus.com" target="_blank">Rambus</a></li>
         </ul>
       </td>
       <td>
