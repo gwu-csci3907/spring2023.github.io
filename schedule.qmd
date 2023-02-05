@@ -54,7 +54,7 @@ Sample class schedule [week-by-week]
           <li>Some basic Python programming constructs</li>
           <li>First steps in Raspberry Pi programming [Blinking LEDs]</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
-          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1</li> 
+          <li><a href="https://drive.google.com/drive/folders/14M0NCkRZcFNnOYdubMGOuJn35kvvJhV2?usp=sharing" target="_blank">HW 1 assigned</li> 
         </ul>
       </td>
       <td>
@@ -69,6 +69,7 @@ Sample class schedule [week-by-week]
           <li>Recap of some programming constructs</li>
           <li>Using Thonny to blink LEDs</li>
           <li>Using bash script to blink LEDS</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
@@ -78,8 +79,9 @@ Sample class schedule [week-by-week]
           <li>Installing Python GPIO packages with pip in [venv]</li>
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
           <li> Blinking LEDs on boot</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li>HW 1 due</li>
-          <li>HW 2 assigned</li>
+          <li><a href="https://drive.google.com/drive/folders/1CxLrXRJWuxXs9b0EGe7dtjVMMIDOgh7P?usp=sharing" target="_blank">HW 2 assigned</li> 
         </ul>
       </td>
       <!--- <td>Column content</td> -->
