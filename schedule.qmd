@@ -68,7 +68,8 @@ Sample class schedule [week-by-week]
           <li>Python skelton code for running programs on the Raspberry Pi</li>
           <li>Recap of some programming constructs</li>
           <li>Using Thonny to blink LEDs</li>
-          <li>Using bash script to blink LEDS</li>
+          <li>Using bash script to blink LEDs</li>
+          <li> Blinking LEDs on boot</li>
           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
@@ -78,7 +79,6 @@ Sample class schedule [week-by-week]
           <li>Setting up a Python virtual environment [venv] and it's benefits</li>
           <li>Installing Python GPIO packages with pip in [venv]</li>
           <li>Configuring the GPIO interface on your Raspberry Pi</li>
-          <li> Blinking LEDs on boot</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li>HW 1 due</li>
           <li><a href="https://drive.google.com/drive/folders/1CxLrXRJWuxXs9b0EGe7dtjVMMIDOgh7P?usp=sharing" target="_blank">HW 2 assigned</li> 
@@ -90,18 +90,14 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 4 [02/10/2023]</th>
       <td>
         <ul>
-          <li>IoT Taxonomy - 5 layer model</li>
+          <li>Sensors</li>
+          <li>Sensor types and considerations</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>Using sudo within virtual environments</li>
           <li>In-class Raspberry Pi Lab (Ultrasound sensors)</li>
-          <li>Basics of Matrices [Warming up to numerical data]</li>
-          <li>Handling data arrays and plotting data using Python</li>
-          <li>Working with matplotlib</li>
-          <li>In-class Raspberry Pi Lab</li>
-          <li>Practical introduction to MQTT</li>
           <li>HW 2 due</li>
           <li>HW 3 assinged</li>
         </ul>
@@ -112,10 +108,10 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 5 [02/17/2023]</th>
       <td>
         <ul>
+          <li>Actuators</li>
+          <li>Actuator types and characteristics</li>
           <li>IoT Architecture and Ecosystem</li>
           <li>Layers in IoT systems - 3 level  layer model</li>
-          <li>Sensors</li>
-          <li>Sensor types and considerations</li>
           <li>Guest lecture:  <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
           target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
           target="_blank">ARM</a></li>
@@ -123,8 +119,10 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
-          <li>Working with pandas</li>
-          <li>In-class Raspberry Pi Lab on Image Processing</li>
+          <li>Basics of Matrices [Warming up to numerical data]</li>
+          <li>Handling data arrays and plotting data using Python</li>
+          <li>Working with matplotlib</li>
+          <li>In-class Raspberry Pi Lab</li>
           <li>HW 3 due</li>
           <li>HW 4 assinged</li>
           <li>Midterm project released</li>
@@ -136,13 +134,15 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 6 [02/24/2023]</th>
       <td>
         <ul>
-          <li>Actuators</li>
-          <li>Actuator types and characteristics</li>
+          <li>IoT Taxonomy - 5 layer model</li>
           <li>Guest lecture 6.1</li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>Practical introduction to MQTT</li>
+          <li>Working with pandas</li>
+          <li>In-class Raspberry Pi Lab on Image Processing</li>
           <li>Working with SciPy</li>
           <li>In-class Raspberry Pi Lab</li>
           <li>HW 4 due</li>
