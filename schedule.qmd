@@ -90,14 +90,18 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 4 [02/10/2023]</th>
       <td>
         <ul>
+          <li>IoT Architecture and Ecosystem</li>
+          <li>Layers in IoT systems - 3 level  layer model</li>
           <li>Sensors</li>
           <li>Sensor types and considerations</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Using sudo within virtual environments</li>
           <li>In-class Raspberry Pi Lab (Ultrasound sensors)</li>
+          <li>Proxmity sensing using Thonny IDE</li>
+          <li>Proxmity sensing using bash script</li>
+          <li>Proxmity sensing on boot</li>
           <li>HW 2 due</li>
           <li>HW 3 assinged</li>
         </ul>
@@ -110,8 +114,6 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Actuators</li>
           <li>Actuator types and characteristics</li>
-          <li>IoT Architecture and Ecosystem</li>
-          <li>Layers in IoT systems - 3 level  layer model</li>
           <li>Guest lecture:  <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
           target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
           target="_blank">ARM</a></li>
@@ -119,6 +121,7 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
+          <li>Using sudo within virtual environments</li>
           <li>Basics of Matrices [Warming up to numerical data]</li>
           <li>Handling data arrays and plotting data using Python</li>
           <li>Working with matplotlib</li>
