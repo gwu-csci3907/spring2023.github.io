@@ -94,6 +94,7 @@ Sample class schedule [week-by-week]
           <li>Layers in IoT systems - 3 level  layer model</li>
           <li>Sensors</li>
           <li>Sensor types and considerations</li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
@@ -102,6 +103,7 @@ Sample class schedule [week-by-week]
           <li>Proxmity sensing using Thonny IDE</li>
           <li>Proxmity sensing using bash script</li>
           <li>Proxmity sensing on boot</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 2 due</li>
           <li>HW 3 assinged</li>
         </ul>
