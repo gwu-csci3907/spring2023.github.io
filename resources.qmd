@@ -11,6 +11,7 @@ format: html
 <h4 class="card-title">Midterm Project Proposal</h4>
 <p>Download: <a href="/Lectures_Speakers/Midterm_Project_Proposal_CS3907.docx" style="color:blue;" target="_blank">Midterm Project Proposal</a></p> 
 <p>Source: <a href="https://www.smartsheet.com/" style="color:blue;" target="_blank">SmartSheet</a></p>
+<p>Reference: <a href="https://www.fool.com/the-ascent/small-business/project-management/articles/project-proposal/" style="color:blue;" target="_blank">7 Steps to Writing the Perfect Project Proposal</a></p>
 </div>
 </div>
 

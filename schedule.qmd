@@ -105,7 +105,7 @@ Sample class schedule [week-by-week]
           <li>Proxmity sensing on boot</li>
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 2 due</li>
-          <li>HW 3 assinged</li>
+          <li><a href="https://drive.google.com/drive/folders/1GBfK0bdTBG1bZ6pfE7bMp7C-0M_ezPw5?usp=share_link" target="_blank">HW 3 assigned</li> 
         </ul>
       </td>
       <!--- <td>Column content</td> -->
