@@ -119,15 +119,14 @@ Sample class schedule [week-by-week]
           <li>Guest lecture:  <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
           target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
           target="_blank">ARM</a></li>
+          <li>Practical introduction to MQTT</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Using sudo within virtual environments</li>
-          <li>Basics of Matrices [Warming up to numerical data]</li>
-          <li>Handling data arrays and plotting data using Python</li>
-          <li>Working with matplotlib</li>
-          <li>In-class Raspberry Pi Lab</li>
+          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"arget="_blank">, A drag-and-drop IoT project builder</a></li>
+          <li>In-class Raspberry Pi Lab with LEDs</li>
+          <li>In-class Raspberry Pi Lab with senseHAT</li>
           <li>HW 3 due</li>
           <li>HW 4 assinged</li>
           <li>Midterm project released</li>
@@ -145,7 +144,6 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
-          <li>Practical introduction to MQTT</li>
           <li>Working with pandas</li>
           <li>In-class Raspberry Pi Lab on Image Processing</li>
           <li>Working with SciPy</li>
@@ -161,6 +159,10 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 7 [03/03/2023]</th>
       <td>
         <ul>
+          <li>Using sudo within virtual environments</li>
+          <li>Basics of Matrices [Warming up to numerical data]</li>
+          <li>Handling data arrays and plotting data using Python</li>
+          <li>Working with matplotlib</li>
           <li>Exploring numerical data using matrices</li>
           <li>Understanding Analog and Digital Signals</li>
           <li>Fundamentals of signal visualization in time and frequency</li>
@@ -174,7 +176,6 @@ Sample class schedule [week-by-week]
           <li>In-class Raspberry Pi Lab</li>
           <li>HW 5 due</li>
           <li>HW 6 assinged</li>
-          <li>Practical introduction to Cayenne-myDevices</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
