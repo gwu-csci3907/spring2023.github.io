@@ -124,8 +124,8 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
-          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"arget="_blank">, A drag-and-drop IoT project builder</a></li>
-          <li>In-class Raspberry Pi Lab with LEDs</li>
+          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"target="_blank">, A drag-and-drop IoT project builder</a></li>
+          <li>Raspberry Pi LEDs controlled by Cayenne</li>
           <li>In-class Raspberry Pi Lab with senseHAT</li>
           <li>HW 3 due</li>
           <li>HW 4 assinged</li>
