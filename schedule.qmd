@@ -114,22 +114,20 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 5 [02/17/2023]</th>
       <td>
         <ul>
-          <li>Actuators</li>
-          <li>Actuator types and characteristics</li>
           <li>Guest lecture:  **Anatomy of a real life IoT attack - Side Channel Analysis (SCA)** by <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
           target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
           target="_blank">ARM</a></li>
           <li>Practical introduction to MQTT</li>
+          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"target="_blank"> A drag-and-drop IoT project builder</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"target="_blank">, A drag-and-drop IoT project builder</a></li>
           <li>Raspberry Pi LEDs controlled by Cayenne</li>
           <li>In-class Raspberry Pi Lab with senseHAT</li>
           <li>HW 3 due</li>
-          <li>HW 4 assinged</li>
-          <li>Midterm project released</li>
+          <li>HW 4 assigned</li>
+          <li>Midterm projects released</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -138,6 +136,8 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 6 [02/24/2023]</th>
       <td>
         <ul>
+          <li>Actuators</li>
+          <li>Actuator types and characteristics</li>
           <li>IoT Taxonomy - 5 layer model</li>
           <li>Guest lecture 6.1</li>
         </ul>
