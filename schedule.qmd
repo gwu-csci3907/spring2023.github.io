@@ -116,7 +116,7 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Actuators</li>
           <li>Actuator types and characteristics</li>
-          <li>Guest lecture:  <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
+          <li>Guest lecture:  **Anatomy of a real life IoT attack - Side Channel Analysis (SCA)** by <a href="/Lectures_Speakers/Chowdary-bio-Jan2023.pdf"
           target="_blank">Chowdary  Yanamadala</a>, Technology Strategist <a href="https://arm.com"
           target="_blank">ARM</a></li>
           <li>Practical introduction to MQTT</li>
