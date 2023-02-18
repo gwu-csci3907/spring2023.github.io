@@ -16,6 +16,15 @@ format: html
 </div>
 
 <div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
+<div class="card-header">Ribbit Network</div>
+<div class="card-body">
+<h4 class="card-title">A global network of open-source, low-cost CO2 concentration sensors</h4>
+<p>Ribbit Network <a href="https://www.ribbitnetwork.org" style="color:blue;" target="_blank">Click here to access</a></p>
+<p>Ribbit: Build your own frog sensor <a href="https://github.com/Ribbit-Network/ribbit-network-frog-hardware#build-a-frog" style="color:blue;" target="_blank">Click here to access</a></p>
+</div>
+</div>
+
+<div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
 <div class="card-header">Cayenne-myDevices</div>
 <div class="card-body">
 <h4 class="card-title">The World's first drag and drop IoT builder</h4>
@@ -30,14 +39,6 @@ format: html
 <h4 class="card-title">Sensor Kits</h4>
 <p>Sundounder: <a href="https://www.sunfounder.com/collections/raspberry-pi-kit-for-expert/products/sensor-kit-v2-for-raspberrypi" style="color:blue;" target="_blank">Expert-level Kit</a></p>
 <p>Note: Raspberry Pi 3B+ were acquired separately.</p>
-</div>
-</div>
-
-<div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
-<div class="card-header">Report templates</div>
-<div class="card-body">
-<h4 class="card-title">Documents</h4>
-<p>NSF-style proposal template: <a href="https://github.com/jeremygibbs/nsf-proposal-latex" style="color:blue;" target="_blank">An NSF proposal template in LaTeX-WTFPL license</a></p>
 </div>
 </div>
 
@@ -62,6 +63,14 @@ format: html
 <p>Sequences, Selections, and Loops: <a href="https://youtu.be/eSYeHlwDCNA" style="color:blue;" target="_blank">https://youtu.be/eSYeHlwDCNA</a></p>  
 <p>Loops: <a href="https://youtu.be/wxds6MAtUQ0" style="color:blue;" target="_blank">https://youtu.be/wxds6MAtUQ0</a></p>
 <p>for-loop: <a href="https://youtu.be/EfJVnAHiR4s" style="color:blue;" target="_blank">https://youtu.be/EfJVnAHiR4s</a></p>
+</div>
+</div>
+
+<div class="card text-white bg-primary mb-3 d-inline-block" style="max-width: 20rem;">
+<div class="card-header">Report templates</div>
+<div class="card-body">
+<h4 class="card-title">Documents</h4>
+<p>NSF-style proposal template: <a href="https://github.com/jeremygibbs/nsf-proposal-latex" style="color:blue;" target="_blank">An NSF proposal template in LaTeX-WTFPL license</a></p>
 </div>
 </div>
 
