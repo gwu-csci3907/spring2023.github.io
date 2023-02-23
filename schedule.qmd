@@ -126,7 +126,6 @@ Sample class schedule [week-by-week]
           <li>Raspberry Pi LEDs controlled by Cayenne</li>
           <li>In-class Raspberry Pi Lab with senseHAT</li>
           <li>HW 3 due</li>
-          <li>HW 4 assigned</li>
           <li>Midterm projects released</li>
         </ul>
       </td>
@@ -136,21 +135,19 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 6 [02/24/2023]</th>
       <td>
         <ul>
-          <li>Actuators</li>
-          <li>Actuator types and characteristics</li>
-          <li>IoT Taxonomy - 5 layer model</li>
-          <li>Guest lecture 6.1</li>
+          <li>Guest lecture:  **Intersection of Industry 4.0 and Technology for Manufacturing in day-to-day applications** by <a href="/Lectures_Speakers/HadiImran-bio-Feb2023.pdf"
+          target="_blank">Hadi Imran</a>, Digital Technologies Director of Factory 4.0 <a href="https://prattwhitney.com"
+          target="_blank">Pratt and Whitney</a></li>
+          <li> Discussion of Midterm Projects and setting course for updates and reporting</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Working with pandas</li>
-          <li>In-class Raspberry Pi Lab on Image Processing</li>
-          <li>Working with SciPy</li>
-          <li>In-class Raspberry Pi Lab</li>
-          <li>HW 4 due</li>
-          <li>HW 5 assinged</li>
-          <li>Practical introduction to Cayenne-myDevices</li>
+          <li>In-class Raspberry Pi Lab with SenseHat</li>
+          <li>Working with senseHAT data and matplotlib</li>
+          <li>Writing data to CSV files</li>
+          <li>Emails alerts from senseHAT data</li>
+          <li>HW 4 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -159,21 +156,20 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 7 [03/03/2023]</th>
       <td>
         <ul>
-          <li>Using sudo within virtual environments</li>
           <li>Basics of Matrices [Warming up to numerical data]</li>
-          <li>Handling data arrays and plotting data using Python</li>
-          <li>Working with matplotlib</li>
           <li>Exploring numerical data using matrices</li>
           <li>Understanding Analog and Digital Signals</li>
-          <li>Fundamentals of signal visualization in time and frequency</li>
+          <li>Fundamentals of signal visualization in time and frequency</li>     
           <li>Guest lecture:  <a href="https://www.seas.gwu.edu/timothy-wood"
           target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Working with Scikit or Keras </li>
-          <li>In-class Raspberry Pi Lab</li>
+          <li>Using sudo within virtual environments</li>
+          <li>Handling data arrays and plotting data using Python</li>
+          <li>In-class Raspberry Pi Lab: Pi Cameras</li>
+          <li>Image acquisition and processing</li>
           <li>HW 5 due</li>
           <li>HW 6 assinged</li>
         </ul>
@@ -184,12 +180,16 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 8 [03/10/2023]</th>
       <td>
         <ul>
-          <li>Case study: IoT in Vehicular Applications</li>
-          <li>Guest lecture:  <a href="/Lectures_Speakers/RJS-bio-Jan2023.pdf" target="_blank">Robert Shaughnessy</a>, Senior Vice President, <a href="https://grimmcyber.com" target="_blank">GRIMM Cyber</a></li>
+          <li>IoT Taxonomy - 5 layer model</li>     
+          <li>Case study: IoT in Healthcare</li>
+          <li>Actuators</li>
+          <li>Actuator types and characteristics</li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>Working with Scikit or Keras </li>
+          <li>Working with SciPy</li>
           <li>In-class Raspberry Pi Lab</li>
           <li>HW 6 due</li>
           <li>HW 7 assinged</li>
@@ -242,7 +242,8 @@ Sample class schedule [week-by-week]
       <th scope="row">Week 11 [04/07/2023]</th>
       <td>
         <ul>
-          <li>Case study: IoT in Healthcare</li>
+          <li>Case study: IoT in Vehicular Applications</li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/RJS-bio-Jan2023.pdf" target="_blank">Robert Shaughnessy</a>, Senior Vice President, <a href="https://grimmcyber.com" target="_blank">GRIMM Cyber</a></li>
         </ul>
       </td>
       <td>
