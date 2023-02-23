@@ -119,12 +119,14 @@ Sample class schedule [week-by-week]
           target="_blank">ARM</a></li>
           <li>Practical introduction to MQTT</li>
           <li>Practical introduction to Cayenne-myDevices <a href="https://developers.mydevices.com/cayenne/features/"target="_blank"> A drag-and-drop IoT project builder</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
         <ul>
           <li>Raspberry Pi LEDs controlled by Cayenne</li>
           <li>In-class Raspberry Pi Lab with senseHAT</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li> 
           <li>HW 3 due</li>
           <li>Midterm projects released</li>
         </ul>
