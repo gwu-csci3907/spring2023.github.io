@@ -145,11 +145,13 @@ Sample class schedule [week-by-week]
       </td>
       <td>
         <ul>
-          <li>In-class Raspberry Pi Lab with SenseHat</li>
+          <li>dweet.io - it's like the Twitter of Things <a href="https://dweet.io"target="_blank"> dweet</a></li>
+          <li>Fetching data from dweet</li>
+          <li>dweet an LED</li>
           <li>Working with senseHAT data and matplotlib</li>
-          <li>Writing data to CSV files</li>
+          <li>Writing senseHAT data to CSV files</li>
           <li>Emails alerts from senseHAT data</li>
-          <li>HW 4 assinged</li>
+          <li>HW 4 assigned</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
