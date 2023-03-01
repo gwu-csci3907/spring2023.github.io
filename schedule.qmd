@@ -151,7 +151,7 @@ Sample class schedule [week-by-week]
           <li>Working with senseHAT data and matplotlib</li>
           <li>Writing senseHAT data to CSV files</li>
           <li>Emails alerts from senseHAT data</li>
-          <li>HW 4 assigned</li>
+          <li>HW 4 assigned: Presentation of midterm project progress</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -162,15 +162,12 @@ Sample class schedule [week-by-week]
         <ul>
           <li>Basics of Matrices [Warming up to numerical data]</li>
           <li>Exploring numerical data using matrices</li>
-          <li>Understanding Analog and Digital Signals</li>
-          <li>Fundamentals of signal visualization in time and frequency</li>     
           <li>Guest lecture:  <a href="https://www.seas.gwu.edu/timothy-wood"
           target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Using sudo within virtual environments</li>
           <li>Handling data arrays and plotting data using Python</li>
           <li>In-class Raspberry Pi Lab: Pi Cameras</li>
           <li>Image acquisition and processing</li>
@@ -188,6 +185,8 @@ Sample class schedule [week-by-week]
           <li>Case study: IoT in Healthcare</li>
           <li>Actuators</li>
           <li>Actuator types and characteristics</li>
+          <li>Understanding Analog and Digital Signals</li>
+          <li>Fundamentals of signal visualization in time and frequency</li>     
         </ul>
       </td>
       <td>
@@ -195,6 +194,7 @@ Sample class schedule [week-by-week]
           <li>Working with Scikit or Keras </li>
           <li>Working with SciPy</li>
           <li>In-class Raspberry Pi Lab</li>
+          <li>Using sudo within virtual environments</li>
           <li>HW 6 due</li>
           <li>HW 7 assinged</li>
           <li>Final Project - Proposals due</li>
