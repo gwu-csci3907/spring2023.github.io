@@ -140,6 +140,7 @@ Sample class schedule [week-by-week]
           <li>Guest lecture:  **Intersection of Industry 4.0 and Technology for Manufacturing in day-to-day applications** by <a href="/Lectures_Speakers/HadiImran-bio-Feb2023.pdf"
           target="_blank">Hadi Mohammed</a>, Digital Technologies Director of Factory 4.0 <a href="https://prattwhitney.com"
           target="_blank">Pratt and Whitney</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
           <li> Discussion of Midterm Projects and setting course for updates and reporting</li>
         </ul>
       </td>
@@ -151,6 +152,7 @@ Sample class schedule [week-by-week]
           <li>Working with senseHAT data and matplotlib</li>
           <li>Writing senseHAT data to CSV files</li>
           <li>Emails alerts from senseHAT data</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 4 assigned: Presentation of midterm project progress</li>
         </ul>
       </td>
@@ -164,15 +166,17 @@ Sample class schedule [week-by-week]
           <li>Exploring numerical data using matrices</li>
           <li>Guest lecture:  <a href="https://www.seas.gwu.edu/timothy-wood"
           target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li> 
         </ul>
       </td>
       <td>
         <ul>
-          <li>Handling data arrays and plotting data using Python</li>
-          <li>In-class Raspberry Pi Lab: Pi Cameras</li>
-          <li>Image acquisition and processing</li>
-          <li>HW 5 due</li>
-          <li>HW 6 assinged</li>
+          <li>Handling data arrays using Python</li>
+          <li>In-class Raspberry Pi Lab: PiNOIR Cameras</li>
+          <li>Image acquisition and processing with OpenCV and Raspberry Pi</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 4 due: Presentations</li>
+          <li>HW 5 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
