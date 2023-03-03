@@ -164,7 +164,8 @@ Sample class schedule [week-by-week]
         <ul>
           <!-- <li>Basics of Matrices [Warming up to numerical data]</li> -->
           <!-- <li>Exploring numerical data using matrices</li> -->
-          <li>Guest lecture: Edge Clouds<a href="https://www.seas.gwu.edu/timothy-wood"
+          <li> **Midterm Project Progress Mentoring** by Catherine Meadows, CS Department Graduate student </li>
+          <li>Guest lecture: **Edge Cloud** by <a href="https://www.seas.gwu.edu/timothy-wood"
           target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
           <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Presentation slide decks from students</a></li> 
         </ul>
@@ -176,7 +177,6 @@ Sample class schedule [week-by-week]
           <!-- <li>Image acquisition and processing with OpenCV and Raspberry Pi</li> -->
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
           <li>HW 4 due: Presentations</li>
-          <li>HW 5 assinged</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
