@@ -216,7 +216,6 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>Details on IoT Communication layers</li>
-          <li>Guest lecture:  <a href="/Lectures_Speakers/RemyPottier-bio-Jan2023.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li>
         </ul>
       </td>
       <td>
@@ -286,7 +285,7 @@ Sample class schedule [week-by-week]
       <td>
         <ul>
           <li>Case study: IoT in Environmental monitoring</li>
-          <li>Guest lecture 13.1</li>
+          <li>Guest lecture:  <a href="/Lectures_Speakers/RemyPottier-bio-Jan2023.pdf" target="_blank">Remy Pottier</a>, Director of Innovation, <a href="https://arm.com" target="_blank">ARM</a></li>
         </ul>
       </td>
       <td>
