@@ -45,6 +45,8 @@ format: html
  </div>
 </div>
 
+<br>
+
 ## Additional important information about grading policy:
 
 - Late submissions on Homework and projects will not be acceptable.

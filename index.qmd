@@ -44,6 +44,8 @@ title: "Introduction to IoT and Edge Computing Applications"
  </div>
 </div>
 
+<br>
+
 ### Github Repo (updated weekly)
 git clone https://github.com/gwu-csci3907/Spring2023
 
