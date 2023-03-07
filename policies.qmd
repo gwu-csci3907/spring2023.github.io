@@ -54,6 +54,8 @@ format: html
 - There may be instances in the presentations where peer-evaluations may be introduced at the discretion of the instructor.
 - The instructor will seeks inputs from the class and decide if course projects will be done individfually, in groups or in a combination. 
 
+<br>
+
 ## Classroom Policies and Student responsibilities
 
 <div class="row">
