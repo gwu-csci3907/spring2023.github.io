@@ -167,7 +167,7 @@ Sample class schedule [week-by-week]
           <li> **Midterm Project Progress Mentoring** by Catherine Meadows, CS Department Graduate student </li>
           <li>Guest lecture: **Edge Cloud** by <a href="https://www.seas.gwu.edu/timothy-wood"
           target="_blank">Prof. Tim Wood</a>, Interim Chair, CS Department, GWU. <a href="http://faculty.cs.gwu.edu/timwood/" target="_blank">Director of GW Cloud Systems Lab</a></li>
-          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Presentation slide decks from students</a></li> 
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes & Presentation slide decks from students</a></li>  
         </ul>
       </td>
       <td>
@@ -176,7 +176,8 @@ Sample class schedule [week-by-week]
           <li>In-class demo Raspberry Pi: PiNOIR Cameras</li>
           <!-- <li>Image acquisition and processing with OpenCV and Raspberry Pi</li> -->
           <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
-          <li>HW 4 due: Presentations</li>
+          <li>HW 4 due: Uploaded Presentation</li>
+          <li>HW 5 assigned: In-class Midterm Project Demonstrations</li> 
         </ul>
       </td>
       <!--- <td>Column content</td> -->
@@ -187,17 +188,18 @@ Sample class schedule [week-by-week]
         <ul>
           <li>IoT Taxonomy - 5 layer model</li>     
           <li>Service-oriented model of IoT</li>
-          <li>Midterm project demos</li>    
+          <li><a href="https://drive.google.com/drive/folders/1qYaXJ_VKJUxnIOQKGn9c_LDQjJIzSsWs?usp=sharing" target="_blank">Lecture notes</a></li>   
         </ul>
       </td>
       <td>
         <ul>
           <li> In-class Flask API development</li>
-          <li> In-class Raspberry Pi Lab with SenseHat and Flask API </li>
           <li> Discussion on what to expect in the remaining portion of the course </li>
           <!-- <li>Using sudo within virtual environments</li> -->
           <!-- <li>HW 6 due</li> -->
-          <li>HW 5 assigned - Final Project Proposals</li>
+          <li><a href="https://drive.google.com/drive/folders/1nfW_e6UMP8V1tn20zKAe9_b9Ix1DTEUw?usp=sharing" target="_blank">Lab examples</a></li>
+          <li>HW 5 due: Graded in-class Midterm Project Demonstrations</li>           
+          <li>HW 6 assigned - Demonstration of Raspberry Pi Lab with SenseHat and Flask API</li>
         </ul>
       </td>
       <!--- <td>Column content</td> -->
