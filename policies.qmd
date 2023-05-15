@@ -38,12 +38,24 @@ format: html
   - 30% Group final project 
  </div>
 
+
+
+
+
  <div class="column">
  <!-- "float: left;  -->
  <img src="/images/noun-exam-3617082_copy.png" alt="exam icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br>
  <p><font size="1">exam by pongsakorn from <a href="https://thenounproject.com/browse/icons/term/exam/" target="_blank" title="exam Icons">Noun Project</a></font></p>
  </div>
 </div>
+
+<br>
+
+## Grading Scale
+
+The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F.
+
+Grades are rounded to the nearest integer, e.g., 0.4 rounds to 0 and 0.5 rounds to 1.
 
 <br>
 
